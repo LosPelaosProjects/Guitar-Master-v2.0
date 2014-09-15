@@ -532,10 +532,106 @@ public class InterfazNotas extends javax.swing.JFrame {
         pack();
     }// </editor-fold>                        
 
-    //// AQUI LINEAS ALLAN////                                    
 
     //// AQUI LINEAS BENJA////
        
+       
+     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {                                      
+        audioNota("/proyectocatalogodenotas/sonidos/DoMY.wav");
+    }                                     
+
+    private void jButton2MouseClicked(java.awt.event.MouseEvent evt) {                                      
+        audioNota("/proyectocatalogodenotas/sonidos/Domn.wav");
+    }                                     
+
+    private void jButton27MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Do#MY.wav");
+    }                                      
+
+    private void jButton28MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Do#mn.wav");
+    }                                      
+
+    private void jButton15MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/ReMY.wav");
+    }                                      
+
+    private void jButton16MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Remn.wav");
+    }                                      
+
+    private void jButton29MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Re#MY.wav");
+    }                                      
+
+    private void jButton30MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Re#mn.wav");
+    }                                      
+
+    private void jButton17MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/MiMY.wav");
+    }                                      
+
+    private void jButton18MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Mimn.wav");
+    }                                      
+
+    private void jButton20MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/FaMY.wav");
+    }                                      
+
+    private void jButton21MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Solmn.wav");
+    }  
+
+    private void jButton19MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Famn.wav");
+    }                                      
+
+    private void jButton31MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Fa#MY.wav");
+    }                                      
+
+    private void jButton32MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Fa#mn.wav");
+    }                                      
+
+    private void jButton22MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/SolMY.wav");
+    }                                      
+
+    private void jButton33MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Sol#MY.wav");
+    }                                      
+
+    private void jButton34MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Sol#mn.wav");
+    }                                      
+
+    private void jButton24MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/LaMY.wav");
+    }                                      
+
+    private void jButton23MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Lamn.wav");
+    }                                      
+
+    private void jButton35MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/La#MY.wav");
+    }                                      
+
+    private void jButton36MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/La#mn.wav");
+    }                                      
+
+    private void jButton25MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/SiMY.wav");
+    }                                      
+
+    private void jButton26MouseClicked(java.awt.event.MouseEvent evt) {                                       
+        audioNota("/proyectocatalogodenotas/sonidos/Simn.wav");
+    }                                      
+
 
     private void jToggleButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                               
         Menu a = new Menu();

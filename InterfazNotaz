@@ -23,7 +23,12 @@ public class InterfazNotas extends javax.swing.JFrame {
 
     //// AQUI METODO HEBER////
 
-    //// AQUI METODO ALFREDO////
+        private void audioNota(String ruta) { // Método de audio, que recibe la ruta (dirrecion) donde se encuentra el audio.
+        AudioClip sonido;
+        sonido = java.applet.Applet.newAudioClip(getClass().getResource(ruta));
+        sonido.play();
+        
+    }
 
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">                          

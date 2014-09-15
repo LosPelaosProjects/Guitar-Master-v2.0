@@ -21,7 +21,13 @@ public class InterfazNotas extends javax.swing.JFrame {
         jLabel6.setIcon(Notas[0]);
     }
 
-    //// AQUI METODO HEBER////
+   private void imagenNota(int op, String ruta1, String ruta2) {
+
+        Imagen[op] = new ImageIcon(getClass().getResource(ruta1));
+        jLabel1.setIcon(Imagen[op]);
+        Notas[op] = new ImageIcon(getClass().getResource(ruta2));
+        jLabel6.setIcon(Notas[op]);
+    }
 
         private void audioNota(String ruta) { // Método de audio, que recibe la ruta (dirrecion) donde se encuentra el audio.
         AudioClip sonido;

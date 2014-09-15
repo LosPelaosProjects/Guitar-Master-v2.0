@@ -1,0 +1,14 @@
+package proyectocatalogodenotas;
+
+public class ProyectoCatalogoDeNotas {
+    
+    public static void main(String[] args) {
+        
+        Menu a=new Menu();
+        a.pack();
+        a.setVisible(true);
+
+
+    }
+    
+}

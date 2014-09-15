@@ -1,2 +1,4 @@
 Guitar-Master-v2.0
+
+ESTA ES LA VERCION CON METODOS DEL PROGRAMA--- EL GUITAR QUIZ SIN ENPLEAR
 ==================

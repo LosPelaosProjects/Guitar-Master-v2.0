@@ -544,7 +544,101 @@ public class InterfazNotas extends javax.swing.JFrame {
     }// </editor-fold>                        
 
 
-    //// AQUI LINEAS BENJA////
+    private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        imagenNota(1, "/proyectocatalogodenotas/imagenes/Do Mayor.png", "/proyectocatalogodenotas/notaseleccionada/do my.png");
+    }                                        
+
+    private void jButton15ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(5, "/proyectocatalogodenotas/imagenes/Re Mayor.png", "/proyectocatalogodenotas/notaseleccionada/re my.png");
+    }                                         
+
+    private void jButton17ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(9, "/proyectocatalogodenotas/imagenes/Mi Mayor.png", "/proyectocatalogodenotas/notaseleccionada/mi my.png");
+    }                                         
+
+    private void jButton20ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(11, "/proyectocatalogodenotas/imagenes/Fa Mayor.png", "/proyectocatalogodenotas/notaseleccionada/fa my.png");
+    }                                         
+
+    private void jButton22ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(15, "/proyectocatalogodenotas/imagenes/Sol Mayor.png", "/proyectocatalogodenotas/notaseleccionada/sol my.png");
+    }                                         
+
+    private void jButton24ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(19, "/proyectocatalogodenotas/imagenes/La Mayor.png", "/proyectocatalogodenotas/notaseleccionada/la my.png");
+    }                                         
+
+    private void jButton25ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(23, "/proyectocatalogodenotas/imagenes/Si Mayor.png", "/proyectocatalogodenotas/notaseleccionada/si my.png");
+    }                                         
+
+    private void jButton27ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(3, "/proyectocatalogodenotas/imagenes/Do# Mayor.png", "/proyectocatalogodenotas/notaseleccionada/do# my.png");
+    }                                         
+
+    private void jButton28ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(4, "/proyectocatalogodenotas/imagenes/Do# Menor.png", "/proyectocatalogodenotas/notaseleccionada/do# mn.png");
+    }                                         
+
+    private void jButton29ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(7, "/proyectocatalogodenotas/imagenes/Re# Mayor.png", "/proyectocatalogodenotas/notaseleccionada/re# my.png");
+    }                                         
+
+    private void jButton30ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(8, "/proyectocatalogodenotas/imagenes/Re# Menor.png", "/proyectocatalogodenotas/notaseleccionada/re# mn.png");
+    }                                         
+
+    private void jButton31ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(13, "/proyectocatalogodenotas/imagenes/Fa# Mayor.png", "/proyectocatalogodenotas/notaseleccionada/fa# my.png");
+    }                                         
+
+    private void jButton32ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(14, "/proyectocatalogodenotas/imagenes/Fa# Menor.png", "/proyectocatalogodenotas/notaseleccionada/fa#m.png");
+    }                                         
+
+    private void jButton33ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(17, "/proyectocatalogodenotas/imagenes/Sol# Mayor.png", "/proyectocatalogodenotas/notaseleccionada/sol# my.png");
+    }                                         
+
+    private void jButton34ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(18, "/proyectocatalogodenotas/imagenes/Sol# Menor.png", "/proyectocatalogodenotas/notaseleccionada/sol# mn.png");
+    }                                         
+
+    private void jButton35ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(21, "/proyectocatalogodenotas/imagenes/La# Mayor.png", "/proyectocatalogodenotas/notaseleccionada/la# my.png");
+    }                                         
+
+    private void jButton36ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(22, "/proyectocatalogodenotas/imagenes/La# Menor.png", "/proyectocatalogodenotas/notaseleccionada/la# mn.png");
+    }                                         
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        imagenNota(2, "/proyectocatalogodenotas/imagenes/Do Menor.png", "/proyectocatalogodenotas/notaseleccionada/do mn.png");
+    }                                        
+
+    private void jButton16ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(6, "/proyectocatalogodenotas/imagenes/Re Menor.png", "/proyectocatalogodenotas/notaseleccionada/re mn.png");
+    }                                         
+
+    private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(10, "/proyectocatalogodenotas/imagenes/Mi Menor.png", "/proyectocatalogodenotas/notaseleccionada/mi mn.png");
+    }                                         
+
+    private void jButton19ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(12, "/proyectocatalogodenotas/imagenes/Fa Menor.png", "/proyectocatalogodenotas/notaseleccionada/fa mn.png");
+    }                                         
+
+    private void jButton23ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(20, "/proyectocatalogodenotas/imagenes/La Menor.png", "/proyectocatalogodenotas/notaseleccionada/la mn.png");
+    }                                         
+
+    private void jButton26ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(24, "/proyectocatalogodenotas/imagenes/Si Menor.png", "/proyectocatalogodenotas/notaseleccionada/si mn.png");
+    }
+
+private void jButton21ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+        imagenNota(16, "/proyectocatalogodenotas/imagenes/Sol Menor.png", "/proyectocatalogodenotas/notaseleccionada/sol mn.png");
+    }
        
        
      private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {                                      
